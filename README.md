@@ -6,7 +6,7 @@ Step1-> Please download the submitted file and unzip the content.
 
 Step2-> Please load your anaconda application and launch Jupyter notebook,
 
-Step3 -> Please go to the following link to download the data, http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Step3 -> Please go to the following link to download the data, http://archive.ics.uci.edu/ml/datasets/Bank+Marketing or download bank-additional.zip
 
 Step4-> Please choose “Data Folder” highlighted under Bank Marketing Data set title.
 
